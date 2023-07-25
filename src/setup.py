@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='flowflow_client',
+    name='flowflow',
     version='0.0.3',
     description='A Python client for FlowFlow.ai',
     author='Mick Vermaat',

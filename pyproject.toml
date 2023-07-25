@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "flowflow_client"
+name = "flowflow"
 version = "0.0.1"
 authors = [{name = "Mick Vermaat", email = "support@flowflow.ai"}]
 description = "Flowflow.AI Client"

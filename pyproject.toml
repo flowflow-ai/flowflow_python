@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "flowflow"
-version = "0.0.2"
+version = "0.0.3"
 authors = [{name = "Mick Vermaat", email = "support@flowflow.ai"}]
 description = "Flowflow.AI Client"
 readme = "README.md"

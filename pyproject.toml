@@ -4,9 +4,9 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "flowflow"
-version = "0.0.3"
+version = "0.0.4"
 authors = [{name = "Mick Vermaat", email = "support@flowflow.ai"}]
-description = "Flowflow.AI Client"
+description = "Flowflow.AI Python Client"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [

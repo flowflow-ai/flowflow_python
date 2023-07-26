@@ -1,7 +1,7 @@
 import os
 
 # Init FlowFlow client
-from flowflow_client import FlowFlowClient
+from flowflow import FlowFlowClient
 api_token = os.environ.get('FLOWFLOW_API_TOKEN') # https://flowflow.ai/settings/api-keys
 client = FlowFlowClient(api_token)
 
